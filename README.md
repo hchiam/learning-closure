@@ -68,7 +68,7 @@ this.dispatchEvent(
 
 ## Trying it out
 
-<https://developers.google.com/closure/library/docs/gettingstarted>
+### <https://developers.google.com/closure/library/docs/gettingstarted>
 
 ```bash
 git clone https://github.com/google/closure-library
@@ -87,3 +87,5 @@ npm init
 yarn global add parcel-bundler # or: npm install -g parcel-bundler
 parcel hello.html
 ```
+
+### <https://developers.google.com/closure/library/docs/tutorial>
