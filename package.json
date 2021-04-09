@@ -1,0 +1,20 @@
+{
+  "name": "learning-closure",
+  "version": "1.0.0",
+  "description": "Just one of the things I'm learning. <https://github.com/hchiam/learning>",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hchiam/learning-closure.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hchiam/learning-closure/issues"
+  },
+  "homepage": "https://github.com/hchiam/learning-closure#readme",
+  "dependencies": {
+    "google-closure-library": "^20210302.0.0"
+  }
+}

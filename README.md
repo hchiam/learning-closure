@@ -65,3 +65,25 @@ this.dispatchEvent(
   new goog.ui.ZippyEvent(goog.ui.Zippy.Events.TOGGLE, this, this.expanded_)
 );
 ```
+
+## Trying it out
+
+<https://developers.google.com/closure/library/docs/gettingstarted>
+
+```bash
+git clone https://github.com/google/closure-library
+cd closure-library
+yarn
+cd ..
+touch hello.js
+touch hello.html
+# fill in the two files
+```
+
+`npm init` and then use [parcel](https://github.com/hchiam/learning-parcel):
+
+```bash
+npm init
+yarn global add parcel-bundler # or: npm install -g parcel-bundler
+parcel hello.html
+```
