@@ -4,7 +4,7 @@
   "description": "Just one of the things I'm learning. <https://github.com/hchiam/learning>",
   "main": "hello.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel hello.html"
   },
   "repository": {
     "type": "git",
