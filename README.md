@@ -12,6 +12,8 @@ Use it with the Closure Compiler: (JS -> better JS)
 
 <https://developers.google.com/closure/compiler>
 
+<https://closure-compiler.appspot.com>
+
 ## Key conventions
 
 ### Namespace
