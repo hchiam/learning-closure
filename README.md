@@ -8,6 +8,8 @@ Closure also comes with lower-level utilities for a variety of things like DOM m
 
 <https://developers.google.com/closure/library>
 
+<https://google.github.io/closure-library/develop/get-started>
+
 Use it with the Closure Compiler: (JS -> better JS)
 
 <https://developers.google.com/closure/compiler>
