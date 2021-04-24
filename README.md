@@ -1,6 +1,6 @@
 # Learning [Closure](https://github.com/google/closure-library), Google's common JavaScript library
 
-Just one of the things I'm learning. <https://github.com/hchiam/learning>
+Just one of the things I'm learning. <https://github.com/hchiam/learning> and <https://github.com/hchiam/learning-frameworks>
 
 Closure Library is a library that you call, not a framework (like React/Angular) that calls you. Library: more flexibility. Framework: less boilerplate.
 
